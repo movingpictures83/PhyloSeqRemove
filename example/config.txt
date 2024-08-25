@@ -1,0 +1,2 @@
+Prefix plugins/PhyloSeqRemove/example/
+Plugin PhyloSeqRemove inputfile parameters.txt outputfile output
